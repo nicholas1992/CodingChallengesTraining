@@ -1,0 +1,5 @@
+secret:
+  ignored-matches:
+  - match: 8f64168bfa48121f91c4cf0ad05445518e886599fbb574fbf3fe8df74ed0bdcf
+    name: GitGuardian Internal Monitoring Key - .devcontainer/devcontainer.json
+version: 2
