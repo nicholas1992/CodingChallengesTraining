@@ -8,6 +8,14 @@
             "program": "${workspaceFolder}/Challenges/helloWorld.py",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "sparseMatrixMultiplication",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Challenges/sparseMatrixMultiplication.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
